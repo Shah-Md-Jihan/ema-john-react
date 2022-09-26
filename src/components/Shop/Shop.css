@@ -9,7 +9,8 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 15px;
-    padding: 100px 140px;
+    padding-top: 140px;
+    padding-left: 100px;
 }
 
 .cart-container {
