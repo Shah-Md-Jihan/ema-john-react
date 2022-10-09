@@ -16,6 +16,10 @@
 }
 
 .header a:hover {
-    background-color: tomato;
+    background-color: tomato !important;
 
+}
+
+.active {
+    background-color: tomato !important;
 }
