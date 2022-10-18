@@ -61,7 +61,7 @@ const SignUp = () => {
                 <input className="login-btn" type="submit" value="Sign Up" />
             </form>
             <p className="register-waning-container">
-                Already Have an Account? <Link to="/register" className="register-warning">Login</Link>
+                Already Have an Account? <Link to="/login" className="register-warning">Login</Link>
             </p>
         </div>
     );
